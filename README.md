@@ -21,7 +21,8 @@ A atividade desta semana foi criar um projeto prático de uma API utilizando o m
 ---
 
 #### Demonstração da API no Postman  :arrow_forward:
-<img src = "API-GET.gif"
+
+![dale api get](https://user-images.githubusercontent.com/81570758/124367829-2825b480-dc31-11eb-900f-927aed863444.gif)
 
 ####  **Para rodar este projeto API-GET em sua máquina:** :computer:
 Clone o projeto no terminal -
